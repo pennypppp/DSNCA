@@ -33,7 +33,7 @@ python get_result_log.py
 
 the code filename specifically represented as follow
 * "baseline" in filename means run baseline code
-* "casme" in filename means training on the CASME dataset
+* "casme" in filename means training on the CASME dataset.you can also run this code just change the dataset name of SMIC
 * "samm" in filename means training on the SAMM dataset
 * "dual" in filename means dual stream
 * "3d" in filename means using 3D reconstruction
